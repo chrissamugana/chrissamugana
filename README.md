@@ -1,5 +1,5 @@
 # 👋 Hi, I’m **Chris Samugana**  
-**DevOps & Cloud Engineer** | **AWS Enthusiast** | **Hands-On Builder**
+**Cloud Engineer & DevOps Engineer** | **AWS Enthusiast** | **Hands-On Builder**
 
 Welcome to my GitHub!  
 I'm a DevOps/Cloud Engineer passionate about automation, scalable infrastructure, and continuous learning.  
