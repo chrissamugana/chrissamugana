@@ -29,7 +29,7 @@ Git, GitHub
 
 ---
 
-## 🚀 **Projects Completed**
+## 🚀 **Projects Include but not limited to:**
 
 ### 🛡️ Creating and Assuming an AWS IAM Administrator Role
 - Configured IAM trust policies and assumed roles for permission delegation  
