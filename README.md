@@ -29,31 +29,8 @@ Git, GitHub
 
 ---
 
-## 🚀 **Projects Include:**
+## 🚀 **Projects can be found within repository:**
 
-### 🛡️ Creating and Assuming an AWS IAM Administrator Role
-- Configured IAM trust policies and assumed roles for permission delegation  
-- Applied IAM best practices for access control  
-
-### 📊 CloudTrail + EventBridge Console Sign-In Alerts
-- Enabled CloudTrail logging and created EventBridge alerts for sign-in activity  
-- Strengthened auditing and visibility across the account  
-
-### 🖥️ Apache Web Server with EC2 + CloudWatch Logs
-- Deployed Apache HTTP server on EC2  
-- Configured CloudWatch logging for system diagnostics and metrics  
-
-### 📦 Custom AMI + Auto Scaling Group with Application Load Balancer
-- Built reusable AMIs  
-- Launched Auto Scaling Groups behind ALBs for high availability  
-
-### 🗃️ S3 Versioning and File Recovery Simulation
-- Enabled versioning on S3 buckets  
-- Tested object recovery and rollback scenarios  
-
-### 🌐 Static IP Assignment with NLB and ALB Target Groups
-- Assigned Elastic IPs to NLB  
-- Routed traffic through ALB target groups for hybrid load balancing  
 
 ---
 
