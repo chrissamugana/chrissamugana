@@ -25,7 +25,7 @@ CloudWatch (logs & metrics), EventBridge
 IAM roles & policies, S3 versioning, CloudTrail auditing
 
 **🛠️ DevOps Tools:**  
-Git, GitHub
+Git, GitHub, Terraform, Cloudformation, Jenkins, Docker
 
 ---
 
