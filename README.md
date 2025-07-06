@@ -7,6 +7,24 @@ I focus on building reliable, secure, and efficient cloud environments using mod
 
 ---
 
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![NGINX](https://img.shields.io/badge/-NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Canva](https://img.shields.io/badge/-CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/-JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Terraform](https://img.shields.io/badge/-TERRAFORM-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Trello](https://img.shields.io/badge/-TRELLO-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Medium](https://img.shields.io/badge/-MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white)
+![Linux](https://img.shields.io/badge/-LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-UBUNTU-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+---
+
 ## 🧰 **Technical Skills**
 
 **☁️ Cloud Platforms:**  
